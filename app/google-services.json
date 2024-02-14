@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633184457931",
+    "project_id": "forteachersapp",
+    "storage_bucket": "forteachersapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633184457931:android:2f213a896fe9aeb37df74e",
+        "android_client_info": {
+          "package_name": "com.example.forteachersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfeEo3__PZWo1u2Usd9LKtFEg9g15PrSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
